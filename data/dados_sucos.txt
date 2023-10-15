@@ -1,0 +1,10 @@
+Agua
+3
+Milkshake
+9.9
+Refrigerante
+6
+Suco
+5.5
+Vitamina
+7.5
